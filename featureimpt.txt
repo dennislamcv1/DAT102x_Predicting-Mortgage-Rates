@@ -1,0 +1,24 @@
+Field importance:
+    1. loan_amount: 40.13%
+    2. lender: 19.73%
+    3. property_type: 16.74%
+    4. loan_type: 8.52%
+    5. loan_purpose: 3.21%
+    6. applicant_income: 1.38%
+    7. county_code: 1.37%
+    8. applicant_ethnicity: 1.28%
+    9. preapproval: 1.13%
+    10. minority_population_pct: 0.94%
+    11. state_code: 0.84%
+    12. number_of_1_to_4_family_units: 0.79%
+    13. ffiecmedian_family_income: 0.79%
+    14. occupancy: 0.78%
+    15. applicant_sex: 0.50%
+    16. population: 0.44%
+    17. msa_md: 0.43%
+    18. number_of_owner-occupied_units: 0.41%
+    19. tract_to_msa_md_income_pct: 0.32%
+    20. applicant_race: 0.16%
+    21. co_applicant: 0.10%
+
+
