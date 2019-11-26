@@ -1,4 +1,4 @@
-# PredictingMortgageRates
+# DAT102x: Predicting Mortgage Rates From Government Data
 The Home Mortgage Disclosure Act (HMDA) was enacted by Congress in 1975 and requires financial institutions like banks, savings associations, credit unions, and other mortgage lending institutions to report information about all of the loan applications they receive. In 2011, the authority for this reporting was transferred to the Consumer Financial Protection Bureau (CFPB).
 
 This type of public disclosure data is important because it helps show whether lenders are serving the housing needs of their communities, gives public officials information that helps them make decisions and policies, and sheds light on lending patterns that could be discriminatory.
